@@ -1,0 +1,10 @@
+#arrow{
+	background: 50% 50% no-repeat;
+	background-size: auto 100%;
+	background-image: url('../img/arrow.png');
+	top: 20%;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 300px;
+}
